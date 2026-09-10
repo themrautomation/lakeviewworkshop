@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lakeview Leadership Challenge"
+  short_description: "Guide a team from evidence to two executive slides"
+  default_prompt: "Use $lakeview-leadership-challenge to guide our assigned Lakeview team from evidence to exactly two executive slides."
