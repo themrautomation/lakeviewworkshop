@@ -1,4 +1,0 @@
-﻿invoice_id,account_id,open_balance_usd,due_date,disputed_usd,credit_status,updated_date
-AR01,A005,84000,2026-07-15,0,Hold,2026-09-04
-AR02,A001,18000,2026-09-15,6000,Review,2026-09-04
-AR03,A004,9000,2026-09-20,0,Open,2026-09-04
