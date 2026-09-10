@@ -1,0 +1,4 @@
+﻿market_id,segment,reachable_accounts,annual_outsourced_spend_low_usd,annual_outsourced_spend_high_usd,buyer_interviews,respondents_with_trigger,trigger,sales_cycle_months_low,sales_cycle_months_high,fit,confidence
+M01,Packaging OEM,42,450000,900000,8,6,Second-source repeat machine frames; revision control and first article evidence,3,6,Carbon steel frames; exclude sanitary product contact,Directional; small convenience sample
+M02,Process equipment,65,600000,1500000,7,5,Sanitary stainless skid expansion,6,12,Most interview demand outside approved Lakeview scope,Directional; service mix unresolved
+M03,Warehouse operator,95,60000,160000,6,4,Small guarding retrofits; site access and surveys,1,3,Custom small jobs; fragmented buying groups,Directional; spend includes non-fabrication work

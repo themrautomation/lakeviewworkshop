@@ -1,0 +1,4 @@
+﻿service_id,offering,buyer_use,in_scope,out_of_scope,lead_time_weeks,planning_margin_floor_pct,resource_pool,evidence_id
+S01,Structural assemblies,"Frames, platforms and supports to released customer drawings",Carbon steel assemblies; project-specific qualification review,No blanket certification or engineered design claim,8,0.24,Structural,CAP01
+S02,Custom fabrication,"Prototype brackets, machine guards and one-off frames","Drawing review, fabrication and documented first article",No sanitary product-contact assemblies or pressure vessels,5,0.28,Custom,CAP02
+S03,Repeat production weldments,Repeat carbon steel machine frames for equipment OEMs,"Pilot, customer first-article acceptance, then repeat releases",No production release before approved first article; coating outsourced,6,0.3,Production,CAP03

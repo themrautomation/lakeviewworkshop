@@ -1,0 +1,76 @@
+﻿employee_id,role,shift,hire_date,cohort,orientation_completed_date,observed_job_signoff_date
+E001,Welder,Day,2019-03-11,Established,2026-01-12,2026-02-10
+E002,Welder,Day,2020-03-11,Established,2026-01-12,2026-02-10
+E003,Welder,Evening,2021-03-11,Established,2026-01-12,2026-02-10
+E004,Welder,Day,2022-03-11,Established,2026-01-12,2026-02-10
+E005,Welder,Day,2023-03-11,Established,2026-01-12,2026-02-10
+E006,Welder,Evening,2024-03-11,Established,2026-01-12,2026-02-10
+E007,Welder,Day,2018-03-11,Established,2026-01-12,2026-02-10
+E008,Welder,Day,2019-03-11,Established,2026-01-12,2026-02-10
+E009,Welder,Evening,2020-03-11,Established,2026-01-12,2026-02-10
+E010,Welder,Day,2021-03-11,Established,2026-01-12,2026-02-10
+E011,Welder,Day,2022-03-11,Established,2026-01-12,2026-02-10
+E012,Welder,Evening,2023-03-11,Established,2026-01-12,2026-02-10
+E013,Welder,Day,2024-03-11,Established,2026-01-12,2026-02-10
+E014,Welder,Day,2018-03-11,Established,2026-01-12,2026-02-10
+E015,Welder,Evening,2019-03-11,Established,2026-01-12,2026-02-10
+E016,Welder,Day,2020-03-11,Established,2026-01-12,2026-02-10
+E017,Welder,Day,2021-03-11,Established,2026-01-12,2026-02-10
+E018,Welder,Evening,2022-03-11,Established,2026-01-12,2026-02-10
+E019,Welder,Day,2023-03-11,Established,2026-01-12,2026-02-10
+E020,Welder,Day,2024-03-11,Established,2026-01-12,2026-02-10
+E021,Welder,Evening,2018-03-11,Established,2026-01-12,2026-02-10
+E022,Welder,Day,2019-03-11,Established,2026-01-12,2026-02-10
+E023,Welder,Day,2020-03-11,Established,2026-01-12,2026-02-10
+E024,Welder,Evening,2021-03-11,Established,2026-01-12,2026-02-10
+E025,Welder,Day,2022-03-11,Established,2026-01-12,2026-02-10
+E026,Welder,Day,2023-03-11,Established,2026-01-12,2026-02-10
+E027,Welder,Evening,2024-03-11,Established,2026-01-12,2026-02-10
+E028,Welder,Day,2018-03-11,Established,2026-01-12,2026-02-10
+E029,Welder,Day,2019-03-11,Established,2026-01-12,2026-02-10
+E030,Welder,Evening,2020-03-11,Established,2026-01-12,2026-02-10
+E031,Welder,Day,2026-07-13,July hires,2026-07-17,
+E032,Welder,Evening,2026-07-13,July hires,2026-07-17,
+E033,Welder,Evening,2026-07-13,July hires,2026-07-17,2026-07-24
+E034,Welder,Evening,2026-07-13,July hires,2026-07-17,
+E035,Welder,Day,2026-07-13,July hires,2026-07-17,
+E036,Welder,Evening,2026-07-13,July hires,2026-07-17,2026-07-24
+E037,Welder,Day,2026-07-13,July hires,2026-07-17,
+E038,Welder,Evening,2026-07-13,July hires,2026-07-17,
+E039,Welder,Evening,2026-07-13,July hires,2026-07-17,2026-07-24
+E040,Welder,Evening,2026-07-13,July hires,2026-07-17,
+E041,Welder,Day,2026-07-13,July hires,2026-07-17,
+E042,Welder,Evening,2026-07-13,July hires,2026-07-17,2026-07-24
+E043,Welder,Day,2026-07-13,July hires,2026-07-17,
+E044,Welder,Evening,2026-07-13,July hires,2026-07-17,
+E045,Welder,Evening,2026-07-13,July hires,2026-07-17,2026-07-24
+E046,Fit-up / machining / shipping,Day,2022-03-11,Established,2026-01-12,2026-02-10
+E047,Fit-up / machining / shipping,Day,2023-03-11,Established,2026-01-12,2026-02-10
+E048,Fit-up / machining / shipping,Evening,2024-03-11,Established,2026-01-12,2026-02-10
+E049,Fit-up / machining / shipping,Day,2018-03-11,Established,2026-01-12,2026-02-10
+E050,Fit-up / machining / shipping,Day,2019-03-11,Established,2026-01-12,2026-02-10
+E051,Fit-up / machining / shipping,Evening,2020-03-11,Established,2026-01-12,2026-02-10
+E052,Fit-up / machining / shipping,Day,2021-03-11,Established,2026-01-12,2026-02-10
+E053,Fit-up / machining / shipping,Day,2022-03-11,Established,2026-01-12,2026-02-10
+E054,Fit-up / machining / shipping,Evening,2023-03-11,Established,2026-01-12,2026-02-10
+E055,Fit-up / machining / shipping,Day,2024-03-11,Established,2026-01-12,2026-02-10
+E056,Fit-up / machining / shipping,Day,2018-03-11,Established,2026-01-12,2026-02-10
+E057,Fit-up / machining / shipping,Evening,2019-03-11,Established,2026-01-12,2026-02-10
+E058,Fit-up / machining / shipping,Day,2020-03-11,Established,2026-01-12,2026-02-10
+E059,Fit-up / machining / shipping,Day,2021-03-11,Established,2026-01-12,2026-02-10
+E060,Fit-up / machining / shipping,Evening,2022-03-11,Established,2026-01-12,2026-02-10
+E061,Fit-up / machining / shipping,Day,2023-03-11,Established,2026-01-12,2026-02-10
+E062,Quality / engineering,Day,2024-03-11,Established,2026-01-12,2026-02-10
+E063,Quality / engineering,Day,2018-03-11,Established,2026-01-12,2026-02-10
+E064,Quality / engineering,Day,2019-03-11,Established,2026-01-12,2026-02-10
+E065,Quality / engineering,Day,2020-03-11,Established,2026-01-12,2026-02-10
+E066,Quality / engineering,Day,2021-03-11,Established,2026-01-12,2026-02-10
+E067,Quality / engineering,Day,2022-03-11,Established,2026-01-12,2026-02-10
+E068,Sales / customer service,Day,2023-03-11,Established,2026-01-12,2026-02-10
+E069,Sales / customer service,Day,2024-03-11,Established,2026-01-12,2026-02-10
+E070,Sales / customer service,Day,2018-03-11,Established,2026-01-12,2026-02-10
+E071,Sales / customer service,Day,2019-03-11,Established,2026-01-12,2026-02-10
+E072,Leadership / administration,Day,2020-03-11,Established,2026-01-12,2026-02-10
+E073,Leadership / administration,Day,2021-03-11,Established,2026-01-12,2026-02-10
+E074,Leadership / administration,Day,2022-03-11,Established,2026-01-12,2026-02-10
+E075,Leadership / administration,Day,2023-03-11,Established,2026-01-12,2026-02-10
