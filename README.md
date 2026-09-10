@@ -1,11 +1,11 @@
 # Lakeview leadership workshop
 
-Choose [Marketing](01-Marketing/BRIEF.md), [Operations](02-Operations/BRIEF.md), [Training](03-Training/BRIEF.md), or optional fourth-team [Sales](Sales-BRIEF.md). Teams work simultaneously on separate business decisions.
+Choose [Marketing](01-Marketing/BRIEF.md), [Operations](02-Operations/BRIEF.md), [Training](03-Training/BRIEF.md), or optional fourth-team [Sales](04-Sales/Sales-BRIEF.md). Teams work simultaneously on separate business decisions.
 
 ## Start without an assigned team
 Paste: "Read README.md and Skill/lakeview-leadership-challenge/SKILL.md. Help me begin the workshop. Ask which team I am on before reading team evidence. Pause for my answers and do not read prepared outcomes until I separately request the after-action after receiving my report and two slides."
 
-A folder name does not assign a team. The current Sales files are at this root; 04-Sales contains compatibility pointers only.
+A folder name does not assign a team. All team materials now live in the numbered team folders; 04-Sales is the optional Sales team. The repository root contains this README only.
 
 ## Participant sequence
 
