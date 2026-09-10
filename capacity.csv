@@ -1,0 +1,16 @@
+﻿capacity_id,week_start,resource_pool,available_hours,committed_hours,recovery_reserve_hours,updated_date,notes
+CP01,2026-09-07,Production,1200,1130,40,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP02,2026-09-07,Custom,400,310,10,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP03,2026-09-07,Structural,800,720,10,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP04,2026-09-14,Production,1200,1120,40,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP05,2026-09-14,Custom,400,290,10,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP06,2026-09-14,Structural,800,710,10,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP07,2026-09-21,Production,1200,1140,40,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP08,2026-09-21,Custom,400,270,10,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP09,2026-09-21,Structural,800,690,10,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP10,2026-09-28,Production,1200,1060,40,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP11,2026-09-28,Custom,400,250,10,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP12,2026-09-28,Structural,800,600,10,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP13,2026-10-05,Production,1200,900,40,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP14,2026-10-05,Custom,400,240,10,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.
+CP15,2026-10-05,Structural,800,580,10,2026-09-04,Committed includes scheduled backlog; reserve is additional. No cross-pool transfer approved.

@@ -1,0 +1,7 @@
+Optional supporting artifact only if requested after the initial report and deck. The standard next step is Sales-AFTER-ACTION.txt. Do not build a simulator.
+
+My judgment: prioritize [business objective]. Use [principle] when accounts compete for attention.
+
+Using the evidence we reviewed and Sales-EVIDENCE.md, create a six-account decision board for a sales manager. Give A001–A006 one row each: priority, correct contact and seller, next action and deadline, defensible value, constraint, source IDs and uncertainty. Mark the first three actions and explain the ranking in under 80 words. Deliver an editable table or CSV.
+
+Add reusable instructions under 100 words for updating the board from new sources. When I supply a new fact, rerun those instructions and explain which rows and priorities change. Build the board now.
