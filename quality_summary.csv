@@ -1,7 +1,0 @@
-﻿period,shift,cohort,inspected,rejected,rejection_pct,first_pass_yield_pct
-Before July 13,Day,Established,400,8,0.02,0.98
-Before July 13,Evening,Established,400,8,0.02,0.98
-From July 13,Day,Established,800,12,0.015,0.985
-From July 13,Day,July hires,800,72,0.09,0.91
-From July 13,Evening,Established,800,36,0.045,0.955
-From July 13,Evening,July hires,800,112,0.14,0.86
