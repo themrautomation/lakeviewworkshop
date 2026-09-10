@@ -1,7 +1,0 @@
-Optional supporting artifact only if requested after the initial report and deck. The standard next step is Sales-AFTER-ACTION.txt. Do not build a simulator.
-
-My judgment: prioritize [business objective]. Use [principle] when accounts compete for attention.
-
-Using the evidence we reviewed and Sales-EVIDENCE.md, create today's three-call brief for Nina's team. For each call or coordinated action, give the account, correct contact and seller, why now, next action and deadline, defensible value, and any constraint. Cite source IDs and explain uncertainty. Name one account that should wait and why. Keep the brief under 450 words.
-
-Add reusable instructions under 100 words for producing this brief from updated sources. When I supply a new fact, rerun those instructions and explain what changes. Draft the brief now.
