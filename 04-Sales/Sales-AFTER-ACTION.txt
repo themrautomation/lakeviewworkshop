@@ -1,0 +1,1 @@
+We are ready for the 90-day after-action. Follow Public/Sales-AFTER-ACTION.txt (../Sales-AFTER-ACTION.txt relative to this file; Sales-AFTER-ACTION.txt if Public is the repository root). Use our delivered initial report, two slides and recorded decisions. If those are missing, finish the first handoff and wait for our next explicit after-action request.
