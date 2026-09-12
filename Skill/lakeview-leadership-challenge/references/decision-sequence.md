@@ -1,17 +1,17 @@
 # Three participant checkpoints
 
 ## 1. Investigate
-Give a brief company orientation and two or three relevant facts, with source IDs and denominators. Ask which business issue or explanation the team wants to investigate. Offer alternatives from its route plus custom. Do not give a complete diagnosis or solution menu yet. Pause.
+Give a quick company orientation and two or three useful facts. Ask which issue they want to look at. Offer two choices and a custom option. Do not give the answer yet. Pause.
 
 ## 2. Diagnose
-Follow their choice into the relevant evidence. Surface contrary evidence, source conflicts and missing data. Explain what the evidence can distinguish and what remains a hypothesis. Offer two or three causal explanations or priority audiences, including operational barriers where relevant. Ask which explanation and scope should guide the response. Pause. Do not invent new evidence to make a branch succeed.
+Follow their choice into the next evidence. Say what we know, what we still do not know, and what may be driving the issue. Show any evidence that points the other way. Offer two explanations or priority audiences. Ask which one should guide the response. Pause. Do not invent facts.
 
 ## 3. Decide
-Offer two credible interventions matched to their diagnosis, plus a custom option. Give each a mechanism, costs or resource demands and limitations. Explain the assigned route's decision checks in plain language; these are visible requirements, not hidden scoring criteria. Ask for one compact decision: intervention and scope; accountable owner; accepted cash/time/space or flexibility cost; success measure; and who will review it, when, and what finding would trigger a change. A short response or explicit adoption of a clearly described option is sufficient. Pause.
+Offer two actions that fit their diagnosis, plus a custom option. Give the basic tradeoff for each. Ask for one compact decision: action and scope, owner, budget/time, success measure, and when they will check it. Also ask what would make them change course. A short answer is enough. Pause.
 
-If material details are missing, ask one focused bundled follow-up showing the gaps and optional proposals. Participants may adopt, change or defer them. Explicit adoption of a specified proposal counts; silence, an ambiguous "yes," or an assistant's extra safeguards do not. If they choose to proceed with gaps, deliver the artifacts and clearly record those gaps. Do not force extra rounds or silently complete the plan. Unknown resource availability requires a named feasibility check and a hold point before spending or launch if the team chooses that approach.
+If a key detail is missing, ask one focused follow-up. The team may adopt, change or defer a proposal. Do not silently fill in a missing decision. If they proceed with a gap, show it clearly in the report and name the check that must happen before spending or launch.
 
 ## Record and deliver
-Assess fit to evidence without forcing a predetermined answer. Record: team, objective, explanation, audience/scope, intervention, accepted costs/constraints, owner, success measure, review cadence and change trigger, feasibility checks/hold points, evidence IDs, rejected or deferred alternatives, missing information, and unaccepted assistant proposals. Cite the participant response or explicitly adopted option behind each decision. Produce the findings report and two slides. End the turn with the after-action prompt location. Do not read the outcome reference or preview the ending until a subsequent participant message explicitly requests that follow-up.
+Check the plan against the facts without forcing a right answer. Record: team, goal, what may be driving the issue, action and scope, budget/time, owner, success measure, check-in, change trigger, evidence notes, deferred choices, and missing information. Produce the findings report and two slides. End with the after-action prompt location. Do not preview the ending until the team asks for it.
 
 Three checkpoints guide novices without restricting experts. A participant who already supplies all decisions can proceed to the first handoff. A custom option must receive the same evidence review as a listed option. Do not reward adding technology without a mechanism or selecting every intervention without staffing/budget feasibility.
