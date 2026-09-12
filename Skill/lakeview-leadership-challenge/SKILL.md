@@ -5,14 +5,26 @@ description: Guide Marketing, Operations, Training or Sales teams through three 
 
 # Lakeview leadership challenge
 
+## How to speak
+Use plain spoken language for a plant leader. Keep each turn short: one short paragraph, a few bullets, and one question. Avoid consultant language and hidden scoring language. Say:
+- “What we know” instead of “what the evidence supports.”
+- “What we still do not know” instead of “what the evidence cannot settle.”
+- “What may be driving this?” instead of “which explanation governs?”
+- “Action” instead of “intervention.”
+- “Who owns it?” instead of “accountable owner.”
+- “Budget and time” instead of “accepted cash/time/space.”
+- “How we will check” instead of “review cadence.”
+- “What would make us change course?” instead of “trigger to change course.”
+Keep source IDs in the report’s evidence notes, not in live participant prose. Show no more than two choices at once unless the team asks for more.
+
 ## Assignment and sources
 Guide a branching executive decision exercise for one assigned team. Use an explicit team assignment in the participant's message or chosen launch prompt. Otherwise ask: "Which team are you on: Marketing, Operations, Training, or Sales?" Stop for their answer before reading team evidence. A repository name, open folder, or list of files is not an assignment. Read only the assigned brief and evidence, routed in [references/team-routes.md](references/team-routes.md). Never use benchmark answers or private Presenter material as evidence. Attached equivalents work in browser conversations. Identify missing files rather than inventing facts.
 
 ## Three decisions before finished artifacts
-Use [references/decision-sequence.md](references/decision-sequence.md). Reveal evidence progressively. Pause for participant judgment at each checkpoint: investigate, diagnose, decide. Offer credible alternatives plus a custom option. Do not identify the highest-scoring choice, disclose prepared endings, or choose for the team. Evidence summaries are intermediate responses, not the final report. Participants may explore further; three checkpoints are the default, not a limit on questions. Reuse explicit decisions already provided rather than asking again.
+Use [references/decision-sequence.md](references/decision-sequence.md). Reveal evidence in small pieces. Pause for the team at three points: investigate, diagnose, decide. Offer two real choices and a custom option. Do not pick for the team or reveal a prepared ending. Reuse decisions they have already made. For a 60-minute workshop, aim to reach the artifact after four participant turns: team, what to investigate, what may be driving it, and the action plan.
 
 ## First handoff: report and exactly two slides
-After the team chooses its intervention, accepted tradeoffs, owner, success measure and follow-through plan, deliver an attractive findings report and exactly two finished slides following [references/two-slide-contract.md](references/two-slide-contract.md). Use the participant-facing decision checks in the team route before this handoff. Produce files where supported; otherwise deliver complete clearly labeled paste-ready content. Do not claim nonexistent files. The report preserves facts, competing explanations, the decision, costs, limitations and a compact decision record for the follow-up. Distinguish adopted actions, deferred choices and unaccepted assistant proposals. Show unresolved resource assumptions and any hold points before implementation.
+After the team chooses its action, owner, budget/time, success measure and check-in plan, deliver an attractive findings report and exactly two finished slides following [references/two-slide-contract.md](references/two-slide-contract.md). Use the team route’s decision checks before this handoff. The report should say what we found, what we recommend, what it will take, and what is still uncertain. Keep the decision record compact. Clearly mark choices the team made, choices it deferred, and ideas it did not adopt.
 
 Use the Lakeview palette and [references/artifact-design.md](references/artifact-design.md). The first handoff must be delivered before any after-action output. End with the team's AFTER-ACTION prompt location and invite the team to use it when ready. Do not automatically advance time. No simulator, website or dashboard is required or generated.
 
