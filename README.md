@@ -10,7 +10,7 @@ A folder name does not assign a team. All team materials now live in the numbere
 ## Participant sequence
 
 1. Supply the shared skill and your team's brief/evidence. Paste its START-HERE prompt.
-2. Make three decisions: investigate, diagnose, decide. The assistant reveals evidence and offers alternatives, including custom choices. Before committing, choose an owner, accepted resources, success measure, review cadence and a trigger to change course. The assistant will show the relevant decision checks.
+2. Make three decisions: what to look at, what may be driving it, and what to do. The assistant reveals evidence and offers two choices plus a custom option. Before committing, choose who owns the action, the budget/time, how you will know it worked, when you will check, and what would make you change course.
 3. Receive the findings report and exactly two recommendation slides.
 4. When ready, paste the team's AFTER-ACTION prompt. Receive a fictional 90-day after-action report and a Results slide, forming a new three-slide deck.
 
@@ -19,7 +19,7 @@ There is no simulator build. All teams use the same sequence. Existing explicit 
 ## Files to supply
 The skill is [Skill/lakeview-leadership-challenge/SKILL.md](Skill/lakeview-leadership-challenge/SKILL.md). Coding assistants can read the matching references directly. Browser participants need the skill, decision-sequence, team-routes, two-slide-contract, artifact-design references and their brief/evidence; supply after-action-outcomes when starting the follow-up. Area images are in Brand. These portable instructions do not install personal skills.
 
-The outcome file is public for portability, with an instruction to read only after the initial handoff and a subsequent explicit participant request. It is not confidential or technically hidden. Facilitators can withhold it from browser uploads until the reveal. Original case facts and new simulated developments must stay distinct.
+The outcome file is public so the files travel cleanly. Read it only after the first report and two slides, when the team asks for the 90-day follow-up. Facilitators can hold it back until then. Keep original case facts separate from new simulated events.
 
 ## Source notes
 All Lakeview data is fictional. Company, Brand and Data retain the shared company. The Operations study and OP06 amendment are in Company/Operations-study.md and the Operations packet; they are not in the original workbook. OP06 makes full duplication two $50,000 fixtures with an unresolved space/relocation constraint. Reports must not use the superseded $1,800 kit estimate as the current duplication option.
