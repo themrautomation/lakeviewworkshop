@@ -11,7 +11,7 @@ The shop grew from 60 to 75 employees when 15 welders joined on July 13. Today t
 ## Commercial position
 The 2025 management baseline is $14.4 million revenue at 27% gross margin (scenario assumption, not reconstructed from the 2026 extract). January-August 2026 closed jobs total $10,894,000, with 27.8% realized gross margin. 167 of 192 jobs shipped on or before the promised date. These are the complete closed-job revenue records for that eight-month period. They are not the current open backlog.
 
-Structural work anchors revenue but competes for capital and offers lower margins. Packaging-equipment OEMs are an underdeveloped customer segment: Lakeview has three reference accounts, but no dedicated campaign. Leadership wants to turn scattered frame projects into a repeatable second-source offering.
+Structural work anchors revenue but competes for capital and offers lower margins. Packaging machine manufacturers are an underdeveloped customer segment: Lakeview has three reference accounts, but no dedicated campaign. Leadership wants to turn scattered frame projects into a repeatable second-source offering.
 
 ## Who is asking
 Mara Jensen, General Manager: grow profitable work while protecting delivery. Dana Liu, Finance: keep cash, gross margin and claimed results distinct. Sam Ortiz, Quality: establish a reliable first-article and document-control process. Jules Mercer, Production planning: protect committed hours and recovery capacity. Nina Patel, Wisconsin sales: know who deserves a call today. Evan Brooks owns Illinois; Luis Romero owns Iowa and Minnesota from September 1.
