@@ -1,5 +1,11 @@
-# Sales optional custom artifact: current location
+Optional supporting artifact only if explicitly requested after the initial report and deck. The standard next step is Sales-AFTER-ACTION.txt. This option does not authorize reading prepared outcomes.
 
-Use the canonical file at Public/Sales-OPTION-C-CUSTOM.txt, one folder above this file.
+My chosen problem is: [problem].
+The person using my solution is: [role].
+The action I want to improve is: [action].
+The artifact I want is: [format].
+A useful result must: [one observable success criterion].
 
-Begin with Public/Sales-START-HERE.txt. The standard sequence is three decisions, findings report and two slides, then a separately requested fictional 90-day after-action and Results slide. Read only the canonical evidence; this compatibility file adds no case facts.
+Use the evidence we reviewed and Sales-EVIDENCE.md. Cite source IDs and flag uncertainty. Produce one small, complete artifact now.
+
+Connect the six accounts and eight raw opportunities. Name the top three actions, owners, deadlines and evidence. Include reusable instructions and test them with supplied new evidence, if available; otherwise state that this test remains pending. Keep the prototype small.

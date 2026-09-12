@@ -1,7 +1,13 @@
-# Sales brief: current location
+# Sales team (optional fourth team)
 
-Use the canonical file at Public/Sales-BRIEF.md, one folder above this file.
+## Your assignment
+Use Sales-EVIDENCE.md to investigate one material business issue. The assistant guides three choices: what to investigate, which explanation/scope to pursue, and what intervention and tradeoff to accept. Each choice includes alternatives and a custom path. Ask follow-up questions when needed. The team supplies the judgment.
 
-[Open current Sales brief](../Sales-BRIEF.md)
+## First deliverables
+A branded findings report and exactly two slides: What We Found / What We Should Do. Identify source evidence, uncertainties, intervention, accepted resources, owner, success measure and AI's role. The assistant will not jump ahead to the ending.
 
-Begin with Public/Sales-START-HERE.txt. The standard sequence is three decisions, findings report and two slides, then a separately requested fictional 90-day after-action and Results slide. Read only the canonical evidence; this compatibility file adds no case facts.
+## Ninety days later
+When ready, paste Sales-AFTER-ACTION.txt. Receive a clearly fictional after-action report and one Results slide, preferably appended to a new copy of the deck. The workshop score reflects the decision rules; it is not a probability of success or a measured improvement. No simulator is required.
+
+## Start
+Paste Sales-START-HERE.txt with the skill and evidence available. Follow the facilitator's time allowance. Choose an operator and spokesperson. Keep source records separate from generated outputs.
