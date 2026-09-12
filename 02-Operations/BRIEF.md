@@ -1,13 +1,13 @@
 # Operations team
 
 ## Your assignment
-Use EVIDENCE.md to investigate one material business issue. The assistant guides three choices: what to investigate, which explanation/scope to pursue, and what intervention and tradeoff to accept. Each choice includes alternatives and a custom path. Ask follow-up questions when needed. The team supplies the judgment.
+Use EVIDENCE.md to look at one important operations problem. The assistant will ask three simple questions: what should we look at, what may be driving it, and what should we do? You make the decisions.
 
 ## First deliverables
-A branded findings report and exactly two slides: What We Found / What We Should Do. Identify source evidence, uncertainties, intervention, accepted resources, owner, success measure and AI's role. The assistant will not jump ahead to the ending.
+A Lakeview-branded findings report and two slides: **What We Found** and **What We Should Do**. The report names the facts, the unknowns, the action, the owner, the budget/time, how you will measure it, and where AI may help. The assistant will not jump ahead to the ending.
 
 ## Ninety days later
-When ready, paste AFTER-ACTION.txt. Receive a clearly fictional after-action report and one Results slide, preferably appended to a new copy of the deck. The workshop score reflects the decision rules; it is not a probability of success or a measured improvement. No simulator is required.
+When ready, paste AFTER-ACTION.txt. Receive a fictional 90-day follow-up report and one Results slide. No simulator is required.
 
 ## Start
-Paste START-HERE.txt with the skill and evidence available. Follow the facilitator's time allowance. Choose an operator and spokesperson. Keep source records separate from generated outputs.
+Paste START-HERE.txt with the skill and evidence available. Follow the facilitator's time limit. Choose a note-taker and a spokesperson. Keep source records separate from generated work.
