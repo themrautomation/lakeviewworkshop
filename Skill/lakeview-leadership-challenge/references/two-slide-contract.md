@@ -4,6 +4,15 @@ Use 16:9, Lakeview blue #56628E, gold #E29D51, charcoal #4D4D4D, warm gray #E2DF
 
 Make the deck feel like a leadership readout: one decisive headline, a strong visual anchor, large numbers, short cards and generous white space. Use the matching area image from `Brand/` on at least one slide, with an intentional crop and a readable overlay or adjacent text panel. Use a gold rule or highlight and the Lakeview logo or mark. Do not use a plain white page filled with bullets, a thin photo strip, a dense default table, tiny footnotes or a full blue/purple background. Keep slide body text at least 16 pt and check the rendered slides before delivery.
 
+Build it quickly and predictably. Show this wireframe in the response before rendering, then proceed without waiting for approval unless the team asks:
+
+```
+Slide 1: one headline | two evidence cards | one comparison or image
+Slide 2: one action headline | action/tradeoff card | owner/check card
+```
+
+Card labels are four words maximum. Card body copy is 18 words maximum. Slide headlines are 12 words maximum. Use two large cards by default and three only when needed. Put source IDs in the footer only. Do not generate multiple layouts or a long explanation of design choices during the workshop.
+
 ## Slide 1: What We Found
 - A short statement of the single priority.
 - Two or three evidence points, shown as large number cards or one simple editable chart when helpful.
