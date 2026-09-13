@@ -9,6 +9,16 @@ The report and slides must look like a leadership readout, not a text export. Us
 
 Do not use a generic Word-style page, a centered title over a thin photo strip, a long bullet wall, a dense default table, tiny gray source text, or a full purple/blue page as the main layout. Do not shrink type to fit. Keep body text at least 16 pt on slides and 10.5 pt in reports; keep source notes readable. A slide should communicate one idea in five seconds.
 
+## Fast build recipe
+Before rendering, write a tiny wireframe in the response so the team can see the plan:
+
+```
+Slide 1: one headline | two evidence cards | one visual anchor
+Slide 2: one action headline | action/tradeoff card | owner/check card
+```
+
+Then build immediately. Do not spend a turn asking for approval unless the team asks to review the wireframe. Use two large cards by default; add a third only when the evidence truly needs it. Keep card labels to four words maximum, card body copy to 18 words maximum, slide headlines to 12 words maximum, and source IDs in the footer only. Do not put source IDs inside a card or paragraph. Use one visual comparison per slide at most. Do not generate multiple style variations or a long design explanation during the workshop.
+
 ## Required artifact layouts
 - **Findings report:** image-led cover; an evidence page with three to four cards or a chart; a “what we know / what we still do not know” page; a recommendation page with action, owner, budget/time and check-in; a short evidence note.
 - **Two-slide deck:** Slide 1 is “What We Found” with one decisive headline, two or three large evidence numbers and one comparison or visual. Slide 2 is “What We Should Do” with the action, tradeoff, owner, success measure and AI’s role. Keep each slide to one message.
