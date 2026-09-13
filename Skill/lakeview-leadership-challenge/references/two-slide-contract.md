@@ -1,6 +1,6 @@
 # Common two-slide contract
 
-Use 16:9, Lakeview blue #56628E, gold #E29D51, charcoal #4D4D4D, warm gray #E2DFDA and white. Arial or a close available sans serif. The supplied template has exactly two editable slides. Keep both slide titles exactly as below, with the team's name as a small label. Use roughly 40–70 words per slide plus compact source references. Prefer a clear comparison or one important number over dense prose.
+Use 16:9, Lakeview blue #56628E, gold #E29D51, charcoal #4D4D4D, warm gray #E2DFDA and white. Use white as the default slide background; warm gray is a small supporting panel color. Arial or a close available sans serif. The supplied template has exactly two editable slides. Keep both slide titles exactly as below, with the team's name as a small label. Use roughly 40–70 words per slide plus compact source references. Prefer a clear comparison or one important number over dense prose.
 
 Make the deck feel like a leadership readout: one decisive headline, a strong visual anchor, large numbers, short cards and generous white space. Use the matching area image from `Brand/` on at least one slide, with an intentional crop and a readable overlay or adjacent text panel. Use a gold rule or highlight and the Lakeview logo or mark. Do not use a plain white page filled with bullets, a thin photo strip, a dense default table, tiny footnotes or a full blue/purple background. Keep slide body text at least 16 pt and check the rendered slides before delivery.
 
