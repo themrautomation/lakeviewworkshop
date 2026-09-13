@@ -11,7 +11,7 @@ The shop grew from 60 to 75 employees when 15 welders joined on July 13. Today t
 ## Commercial position
 The 2025 management baseline is $14.4 million revenue at 27% gross margin (scenario assumption, not reconstructed from the 2026 extract). January-August 2026 closed jobs total $10,894,000, with 27.8% realized gross margin. 167 of 192 jobs shipped on or before the promised date. These are the complete closed-job revenue records for that eight-month period. They are not the current open backlog.
 
-Structural work anchors revenue but competes for capital and offers lower margins. Packaging-equipment OEMs are an underdeveloped customer segment: Lakeview has three reference accounts, but no dedicated campaign. Leadership wants to turn scattered frame projects into a repeatable second-source offering.
+Structural work anchors revenue but competes for capital and offers lower margins. Packaging machine manufacturers are an underdeveloped customer segment: Lakeview has three reference accounts, but no dedicated campaign. Leadership wants to turn scattered frame projects into a repeatable second-source offering.
 
 ## Who is asking
 Mara Jensen, General Manager: grow profitable work while protecting delivery. Dana Liu, Finance: keep cash, gross margin and claimed results distinct. Sam Ortiz, Quality: establish a reliable first-article and document-control process. Jules Mercer, Production planning: protect committed hours and recovery capacity. Nina Patel, Wisconsin sales: know who deserves a call today. Evan Brooks owns Illinois; Luis Romero owns Iowa and Minnesota from September 1.
@@ -55,7 +55,7 @@ Avoid: "Flawless quality. Any metal. Any deadline."
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | S01 | Structural assemblies | Frames, platforms and supports to released customer drawings | Carbon steel assemblies; project-specific qualification review | No blanket certification or engineered design claim | 8 | 0.24 | Structural | CAP01 |
 | S02 | Custom fabrication | Prototype brackets, machine guards and one-off frames | Drawing review, fabrication and documented first article | No sanitary product-contact assemblies or pressure vessels | 5 | 0.28 | Custom | CAP02 |
-| S03 | Repeat production weldments | Repeat carbon steel machine frames for equipment OEMs | Pilot, customer first-article acceptance, then repeat releases | No production release before approved first article; coating outsourced | 6 | 0.3 | Production | CAP03 |
+| S03 | Repeat production weldments | Repeat carbon steel machine frames for equipment manufacturers | Pilot, customer first-article acceptance, then repeat releases | No production release before approved first article; coating outsourced | 6 | 0.3 | Production | CAP03 |
 
 # Controlled work and release procedures
 
@@ -83,8 +83,8 @@ Owner: GM. Quotes use approved service scope and the applicable planning margin 
 | segment | accounts | jobs | revenue_usd | gross_profit_usd | gross_margin_pct | on_time_jobs | rework_cost_usd |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Agricultural equipment | 4 | 32 | 1571000 | 493960 | 0.31442 | 29 | 3500 |
-| Material handling OEM | 4 | 32 | 1493000 | 472480 | 0.31646 | 28 | 6700 |
-| Packaging OEM | 3 | 24 | 380000 | 116710 | 0.30713 | 17 | 11650 |
+| Material handling equipment maker | 4 | 32 | 1493000 | 472480 | 0.31646 | 28 | 6700 |
+| Packaging machine manufacturer | 3 | 24 | 380000 | 116710 | 0.30713 | 17 | 11650 |
 | Process equipment | 3 | 24 | 1261000 | 405930 | 0.32191 | 22 | 700 |
 | Structural contractor | 7 | 56 | 5138000 | 1206570 | 0.23483 | 51 | 4900 |
 | Warehouse operator | 3 | 24 | 1051000 | 329070 | 0.3131 | 20 | 2450 |
@@ -92,7 +92,7 @@ Owner: GM. Quotes use approved service scope and the applicable planning margin 
 ## Synthetic market research
 | market_id | segment | reachable_accounts | annual_outsourced_spend_low_usd | annual_outsourced_spend_high_usd | buyer_interviews | respondents_with_trigger | trigger | sales_cycle_months_low | sales_cycle_months_high | fit | confidence |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| M01 | Packaging OEM | 42 | 450000 | 900000 | 8 | 6 | Second-source repeat machine frames; revision control and first article evidence | 3 | 6 | Carbon steel frames; exclude sanitary product contact | Directional; small convenience sample |
+| M01 | Packaging machine manufacturer | 42 | 450000 | 900000 | 8 | 6 | Second-source repeat machine frames; revision control and first article evidence | 3 | 6 | Carbon steel frames; exclude sanitary product contact | Directional; small convenience sample |
 | M02 | Process equipment | 65 | 600000 | 1500000 | 7 | 5 | Sanitary stainless skid expansion | 6 | 12 | Most interview demand outside approved Lakeview scope | Directional; service mix unresolved |
 | M03 | Warehouse operator | 95 | 60000 | 160000 | 6 | 4 | Small guarding retrofits; site access and surveys | 1 | 3 | Custom small jobs; fragmented buying groups | Directional; spend includes non-fabrication work |
 
@@ -100,7 +100,7 @@ Owner: GM. Quotes use approved service scope and the applicable planning margin 
 | competitor_id | name | positioning | quoted_lead_time | buyer_perception | gap | evidence |
 | --- | --- | --- | --- | --- | --- | --- |
 | K01 | Granite Span Steelworks | Large structural programs | 10-14 weeks in two buyer interviews | Scale and estimating depth | Small prototypes deprioritized | Agency interview notes; unverified customer perceptions |
-| K02 | Brightline Precision Fabrication | Documented OEM prototypes | 4-6 weeks per fictional website snapshot | Strong engineering collaboration | Higher setup charges on repeat orders | Fictional competitor copy plus two interviews |
+| K02 | Brightline Precision Fabrication | Documented machine prototypes | 4-6 weeks per fictional website snapshot | Strong engineering collaboration | Higher setup charges on repeat orders | Fictional competitor copy plus two interviews |
 | K03 | County Line Metalworks | Quick local general fabrication | 2-3 weeks claimed in fictional ad | Responsive for small urgent jobs | No repeat-production evidence supplied | Fictional advertising claim; not a verified delivery benchmark |
 
 ## Channel history
@@ -128,11 +128,11 @@ Scenario clock: September 8, 2026, 8:00 a.m. Central.
 
 Synthetic excerpts from the agency's August 26 discovery interviews. They are research inputs, not approved public testimonials. The small sample is directional and may overrepresent current customers.
 
-BI01 | Packaging OEM engineering buyer: "I do not want to teach a second supplier our drawing controls every time we release a change. Show me a first-article packet and tell me who owns questions."
-BI02 | Packaging OEM sourcing buyer: "Price gets you considered. A credible pilot path gets you on the calendar. I cannot move a production program on a website claim."
+BI01 | Packaging machine manufacturer engineering buyer: "I do not want to teach a second supplier our drawing controls every time we release a change. Show me a first-article packet and tell me who owns questions."
+BI02 | Packaging machine manufacturer sourcing buyer: "Price gets you considered. A credible pilot path gets you on the calendar. I cannot move a production program on a website claim."
 BI03 | Process equipment buyer: "Our next skid has sanitary contact requirements. A shop that makes machine frames may still be the wrong partner."
 BI04 | Warehouse facilities buyer: "I need someone to survey the guards and tell me what you need from our plant before quoting. This is a small project, and I cannot spend weeks coordinating it."
-BI05 | Packaging OEM operations buyer: "Do not promise a date before engineering has frozen the drawing. Give me the decisions I need to make to get a slot."
+BI05 | Packaging machine manufacturer operations buyer: "Do not promise a date before engineering has frozen the drawing. Give me the decisions I need to make to get a slot."
 BI06 | Structural contractor estimator: "We compare bids hard. A low number with an unclear delivery plan can still be expensive."
 
 # Website copy snapshot
