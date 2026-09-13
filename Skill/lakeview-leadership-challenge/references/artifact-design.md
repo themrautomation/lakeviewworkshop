@@ -1,6 +1,6 @@
 # Lakeview artifact design
 
-Keep Lakeview blue #56628E, gold #E29D51, charcoal #4D4D4D, warm gray #E2DFDA and white. Use white/warm gray as the foundation, charcoal for headlines and gold/blue selectively. Avoid full purple backgrounds as the default.
+Keep Lakeview blue #56628E, gold #E29D51, charcoal #4D4D4D, warm gray #E2DFDA and white. Use **white as the default page background**. Use warm gray only for small panels, dividers or supporting bands. Use charcoal for headlines and gold/blue selectively. Avoid full purple backgrounds as the default.
 
 Use editorial composition: a strong image-led report cover, distinct evidence and recommendation layouts, generous margins, disciplined typography and concise source captions. Use Arial or an available close sans serif with clear headline/body contrast. Charts should explain the decision with direct labels and meaningful comparisons. Keep tables editable where supported. Icons should clarify actions or responsibilities rather than fill space.
 
