@@ -1,5 +1,8 @@
 # Training team
 
+## Lakeview in one minute
+Lakeview Fabrication is a 75-person shop in Janesville, Wisconsin. It builds structural steel, custom parts and repeat welded frames for equipment makers and contractors. The work comes from one 48,000-square-foot facility on day and evening shifts. Leaders want profitable growth while protecting delivery, quality and cash.
+
 ## Your assignment
 Use EVIDENCE.md to look at one important workforce or training problem. The assistant will ask three simple questions: what should we look at, what may be driving it, and what should we do? You make the decisions.
 
